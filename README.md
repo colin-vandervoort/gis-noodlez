@@ -1,2 +1,2 @@
 # gis-noodlez
-practice with qgis and python, primarily
+practice with osm, qgis, python
